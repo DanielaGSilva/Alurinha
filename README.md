@@ -1,5 +1,5 @@
 # Alurinha
-Usando CSS Grind
+Usando CSS Grind -- Alura
 
 Curso de CSS Grid: simplificando layouts
 
