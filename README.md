@@ -3,7 +3,8 @@ Usando CSS Grind
 
 Curso de CSS Grid: simplificando layouts
 
-cCurso de HTML e CSS e:
+Curso de HTML e CSS e:
+
 Simplifique a criação de layouts complexos.
 Posicione elementos com mais facilidade.
 Utilize grid para calcular e alinhar elementos.
